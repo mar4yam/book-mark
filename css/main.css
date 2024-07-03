@@ -1,0 +1,13 @@
+ p{
+    font-family: "Pacifico", cursive;
+line-height: 60px;
+font-weight: 500;
+font-size: 50px;
+
+}
+body{
+    background-color: rgb(236, 214, 168);
+}
+table{
+    width: 86%!important;
+}
